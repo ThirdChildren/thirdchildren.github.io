@@ -1,0 +1,8 @@
+title: "Third Children's Portfolio"
+description: "A portfolio showcasing my projects and skills."
+baseurl: "" # Vuoto per username.github.io
+url: "https://thirdchildren.github.io" # URL del sito
+theme: minima # Tema base, sostituibile con altri
+markdown: kramdown
+plugins:
+  - jekyll-feed
